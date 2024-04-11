@@ -1,6 +1,6 @@
 # Low Dropout Regulator
 
-As part of a summer project when I was learning about circuits and digital electronics, I worked on designing an LDO (low-dropout regulator).
+As part of a summer project when I was learning about circuits and digital electronics, I worked on designing an LDO (low-dropout regulator) in Altium Designer.
 
 ![Screenshot 2024-04-11 170527](https://github.com/abhayratti/low-dropout-regulator/assets/92469179/995ca3cd-b05a-419b-ac05-1011dcb4c2f2)
 
