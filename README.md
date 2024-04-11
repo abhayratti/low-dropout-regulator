@@ -8,5 +8,17 @@ As part of a summer project when I was learning about circuits and digital elect
 - Calculations + map-out of necessary components (ICs, resistors, capacitors, diodes, connectors, headers) to create a dropout voltage of 3.3V ✅ 
 - Circuit schematic ✅
 - Component sourcing from DigiKey ✅
-- Component footprint design based on datasheets (could have used DigiKey but wanted to learn) ✅
+- Component footprint design based on datasheets (could have used DigiKey but wanted to learn) -- see below for examples ✅
 - PCB footprint assembly 🟡
+
+### TO-252-3 (IC)
+![image](https://github.com/abhayratti/low-dropout-regulator/assets/92469179/962ca5ca-8ee1-4f32-8664-6c774b0cedf3)
+
+### RES0603
+![image](https://github.com/abhayratti/low-dropout-regulator/assets/92469179/7320e7ce-e48e-4d2b-85ae-d9334767075b)
+
+### CAP0805 (2012 Metric)
+![image](https://github.com/abhayratti/low-dropout-regulator/assets/92469179/e46dd3c3-640c-40fb-9dbb-9d839b852656)
+
+### LED0603Y
+![image](https://github.com/abhayratti/low-dropout-regulator/assets/92469179/41967f21-5000-4c66-89b6-5286d067c7ba)
