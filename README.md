@@ -14,7 +14,7 @@ As part of a summer project when I was learning about circuits and digital elect
 ### TO-252-3 (IC)
 ![image](https://github.com/abhayratti/low-dropout-regulator/assets/92469179/962ca5ca-8ee1-4f32-8664-6c774b0cedf3)
 
-### RES0603
+### RES2512
 ![image](https://github.com/abhayratti/low-dropout-regulator/assets/92469179/7320e7ce-e48e-4d2b-85ae-d9334767075b)
 
 ### CAP0805 (2012 Metric)
